@@ -25,7 +25,7 @@ export class AuthController {
     const { id, author } = req.body;
 
     if (!id || !author) {
-        return res.status(400).json({ error: "ID e author são obrigatórios" });
+        return res.status(400).json({ error: " ID e author são obrigatórios" });
     }
 
     try {

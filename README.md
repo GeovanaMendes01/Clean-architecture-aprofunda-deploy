@@ -1,7 +1,7 @@
 # Projeto Aprofunda: Api Biblioteca - Clean Architecture
 
 Este projeto foi desenvolvido como parte do Programa Aprofunda da PretaLab. A aplicação consiste em uma API de biblioteca conectada ao **MongoDB**, com autenticação **JWT** para proteger rotas sensíveis.  
-Foi implementado também uma estrutura mínima de **registro e login de usuários**, garantindo boas práticas de segurança.
+Foi implementado também uma estrutura mínima de **registro e login de usuários**,  garantindo boas práticas de segurança.
 
 ##  Tecnologias Utilizadas
 
