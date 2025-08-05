@@ -6,7 +6,7 @@ import { BookModel } from "../../src/database/mongooseBookModel";
 dotenv.config({ path: ".env.test" });
 
 beforeAll(async () => {
-  await connectMongo(process.env.MONGO_URI!);
+  await connectMongo(process.env.MONGO_URI_TESTE!);
 });
 
 beforeEach(async () => {
